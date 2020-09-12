@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "minimist": "^1.2.5",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "prismic-dom": "^2.1.0"
   }
 }
